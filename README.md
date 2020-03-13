@@ -34,7 +34,23 @@
 </div>
 </div>
 <p style="font-size: 1.5em;">No of episodes:- 16</p>
-<p style="font-size: 1.5em;">Available on:- <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwi06pbjlpjoAhUNOisKHUViDlYQgD0wAXoECBoQBA&amp;url=https%3A%2F%2Fwww.netflix.com%2Fwatch%2F80188730%3Fsource%3D35&amp;usg=AOvVaw2a68ibjbpP9gX8uNb2_MvB">https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwi06pbjlpjoAhUNOisKHUViDlYQgD0wAXoECBoQBA&amp;url=https%3A%2F%2Fwww.netflix.com%2Fwatch%2F80188730%3Fsource%3D35&amp;usg=AOvVaw2a68ibjbpP9gX8uNb2_MvB</a> </p>
+<div class="NFQFxe viOShc mod" lang="en-IN" data-md="126" data-hveid="CAkQAA" data-ved="2ahUKEwiMtMP7mpjoAhUGWX0KHQF5BtEQum4wAHoECAkQAA">
+<div class="N6Sb2c i29hTd" role="heading" aria-level="2"><span class="qLLird">Available on</span></div>
+<div class="E6Cqjb">&nbsp;</div>
+</div>
+<div class="NFQFxe yp1CPe mod" lang="en-IN" data-attrid="action:watch_tv_from_program" data-md="163" data-hveid="CB4QAQ" data-ved="2ahUKEwiMtMP7mpjoAhUGWX0KHQF5BtEQ_jwoADABegQIHhAB">
+<div class="tpa-cc">
+<div class="rbH68d HKSKhc">
+<div class="r0VsPb">
+<div class="PZPZlf P8aK7e tpa-ci" data-ved="2ahUKEwiMtMP7mpjoAhUGWX0KHQF5BtEQsoQBKAAwAXoECB4QAw"><a class="JkUS4b" href="https://www.netflix.com/watch/80123798?source=35" data-ved="2ahUKEwiMtMP7mpjoAhUGWX0KHQF5BtEQgD0wAXoECB4QBA"><img id="dimg_122" class="rISBZc M4dUYb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAEkklEQVR4AcXZA7jkWAKA0XNvUm7b7rVt27Zt2979sLZt27Ztu83nSnKXM9PuepXqN6cq+PzHMiLbcGM8HC/E2/EOvBiPxs1wPvUJhndD3BjXwHaD+QO+jI/hA3MVfE88FBdWz+/wErz0TAXfDM/B+Y3WH/BUvG2UwS/Bg51Zb8Z9MV0neAU+g4uaG3/EdfHbYYI34LtYYW5N4TL4KYMHL8FvsNS5Yxrb8DfHiE7s66eLfdjChl9t6vjK2ravrGv74fq2z61paQeOdIdew4dWdrxiafu/w3tXtD10QdNptPAdNBwjx7FeMchJfl6IztvJnLdRAdCIbnmo9PaxAsD6PLp8K/P7rALrsmBHaRCr8W7c4lTB18b9DeAv/eTgVJLFZKwiYXVMbjkvc2TwWJXsKJM9ZQINHKySAd0cd8LbTrZLvNWAInYVCUDAeFG5RjezJAYj9BqEEwXfHisNqBfZU3CgJA/AoYqFjeCmvcwIdfDIEwU/j8G1AmMluwq6kQSQuPFog+EpaEAEXAsbzFIe+VufKhEQcKioXK+XWZ9HEIzEfNwaIuB2ZqnEwsiOPjsLWgEYS3QawR3nZaCSjMjtIAKuawjtyFTi7/1zdosIZXKjXgbGKqNyDTQiNmGdWUpI6EX+NsNMIgD2F8nlOtGCyB/7SZkIauvhYhEXMaQqsSRjd8GuPp0ITCLLg5v0Mv8sKBIxoL6LRGwzpIROZCrx22m6gYSIfpHceX5uax7tKJNoJDZHbKkTHLAw4/czTFRkgP1lcuVOdO1u5tczSUBQ24qIJWqosDxnb8lf+vQiUKIduXib/QXFiPbjqKYq0Yn0E3+eoRupEHC4YkOTdmSsIgZ1hYgDakiIWJnziykOlbQCMFmxpsGKnJ19otomIv5YNzhhSzP4ymTp0xOlJVmQUCEPnLfFeEVCCOrYFfE7NSUsjuxJyVsPlUIEAsYqtrWYl3G4IqrlTxE/U1NKZIHNefDZydLBmWR+AGYSS3NW5uwtyNTy04jfYocaKkRsaATTic9NVublQQIErG8wXZEMbQo/iIDPqSmgG4EPjxfEAGC8Yn2TbvzffDCUL2M6At6tPlECHx2vHJqpLIjH7BYNDpRkhvJeiICPYZcROVAl7xkr9fIgIaBMbGoAyazN4J0QAfBktQUAHxgrSUTAZMXKBgszJpLZeh4mIALgNdhvRD43UfrLdLI4AwrMz1ieM1EZHAWeAxAdiXsakT4+NVFqZlGFgCKxIjNbD8E0QO5IfBDvwu2cRicEK7Kgn2gENufRyqxypHceLtxnedOaViQlEprBxtygvohXwsmC4U64Klaf+sCqfH+69JOZ5ECVVIkfzZSO9KWpyuP/MWVtI2pgSQwu1olCTAYwhpsN+jJwE36FlpPIURhOKzCdnM6F8bNBg+HC+CZ65t5V8FUYPBjYjC9hg7mxD9fCD2GYYOjidbi9M+tjuAd2Q51ggHvhmVg1+rXq2XiBAQSz08ZD8bD64Q7gJXgBDhpQMJwWboub4KpYZjD78TV8FO/GIXNPG5fB3fEMvPKIT7evwrNxL1wBPTX9C31ZioXqdiXTAAAAAElFTkSuQmCC" alt="" width="44" height="44" data-atf="1" /></a>
+<div class="i3LlFf">Netflix</div>
+<div class="V8xno">Subscription</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p style="font-size: 1.5em;">&nbsp;</p>
 <h1 class="film-title"><img src="https://i.mydramalist.com/lBOo4c.jpg" /></h1>
 <h1 class="film-title"><a title="Healer" href="https://mydramalist.com/10814-healer">Healer</a> (2014)</h1>
 <p>About:-Seo Jung Hoo is a special kind of night courier, known only as "Healer" by his clients. For the right price and with the help of a genius hacker, he gets his clients whatever they want, as long as it doesn't involve murder. His latest job leads him to a second-rate tabloid writer, Chae Young Shin, and the successful reporter, Kim Moon Ho. He begins to uncover the mystery of his own<span class="read-more-hidden"> shared past with the two reporters, thus putting them all in dange</span>r.</p>
@@ -76,9 +92,35 @@
 <div class="col-xs-8 col-sm-7 p-a-0"><a class="text-primary text-ellipsis" title="Woo Hee Jin" href="https://mydramalist.com/people/1461-woo-hee-jin"><strong>Woo Hee Jin</strong></a>
 <div class="text-ellipsis"><small>Kang Min Jae [Moon Ho's boss]</small></div>
 <small class="text-muted">Support Role</small></div>
-&nbsp;&nbsp; <img src="https://i.mydramalist.com/vN26Zc.jpg" /></li>
-<li class="list-item col-sm-4"></li>
-<li class="list-item col-sm-4"><a title="Descendants of the Sun" href="https://mydramalist.com/10904-descendants-of-the-sun">Descendants of the Sun</a> (2016)</li>
+</li>
 </ul>
+<div class="col-xs-8 col-sm-7 p-a-0">&nbsp;</div>
+<p>&nbsp; <img src="https://i.mydramalist.com/vN26Zc.jpg" />&nbsp;</p>
+<p>Descendants of the sun (2016)</p>
+<p>About:-</p>
+<p>This drama tells of the love story that develops between a surgeon and a special forces officer. Kang Mo Yeon is a pretty and assertive woman who works as a cardiothoracic surgeon at Haesung Hospital. She isn't afraid to admit her mistakes and believes that capability overrides whatever connections you have. However, she is soon faced with reality that she cannot advance with just capability. Her life is forever changed when she<span class="read-more-hidden"> encounters Yoo Si Jin, the Captain and team leader of Alpha Team who cares more about protecting anybody who needs help as well as his country, even if it goes against the order of his superiors. This drama will tell of how they both bond together in a time of war and overcome the odds against them. </span></p>
+<p><span class="read-more-hidden">Cast:-Song Joong ki, Song hye kyo, Jin goo, Kim ji won.</span></p>
+<p><span class="read-more-hidden"><strong>No. of episodes</strong>&lrm;: &lrm;16 + 3 special episodes</span></p>
+<div class="NFQFxe viOShc mod" lang="en-IN" data-md="126" data-hveid="CAkQAA" data-ved="2ahUKEwiMtMP7mpjoAhUGWX0KHQF5BtEQum4wAHoECAkQAA">
+<div class="N6Sb2c i29hTd" role="heading" aria-level="2"><span class="qLLird">Available on</span></div>
+<div class="E6Cqjb">&nbsp;</div>
+</div>
+<div class="NFQFxe yp1CPe mod" lang="en-IN" data-attrid="action:watch_tv_from_program" data-md="163" data-hveid="CB4QAQ" data-ved="2ahUKEwiMtMP7mpjoAhUGWX0KHQF5BtEQ_jwoADABegQIHhAB">
+<div class="tpa-cc">
+<div class="rbH68d HKSKhc">
+<div class="r0VsPb">
+<div class="PZPZlf P8aK7e tpa-ci" data-ved="2ahUKEwiMtMP7mpjoAhUGWX0KHQF5BtEQsoQBKAAwAXoECB4QAw"><a class="JkUS4b" href="https://www.netflix.com/watch/80123798?source=35" data-ved="2ahUKEwiMtMP7mpjoAhUGWX0KHQF5BtEQgD0wAXoECB4QBA"><img id="dimg_122" class="rISBZc M4dUYb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAEkklEQVR4AcXZA7jkWAKA0XNvUm7b7rVt27Zt2979sLZt27Ztu83nSnKXM9PuepXqN6cq+PzHMiLbcGM8HC/E2/EOvBiPxs1wPvUJhndD3BjXwHaD+QO+jI/hA3MVfE88FBdWz+/wErz0TAXfDM/B+Y3WH/BUvG2UwS/Bg51Zb8Z9MV0neAU+g4uaG3/EdfHbYYI34LtYYW5N4TL4KYMHL8FvsNS5Yxrb8DfHiE7s66eLfdjChl9t6vjK2ravrGv74fq2z61paQeOdIdew4dWdrxiafu/w3tXtD10QdNptPAdNBwjx7FeMchJfl6IztvJnLdRAdCIbnmo9PaxAsD6PLp8K/P7rALrsmBHaRCr8W7c4lTB18b9DeAv/eTgVJLFZKwiYXVMbjkvc2TwWJXsKJM9ZQINHKySAd0cd8LbTrZLvNWAInYVCUDAeFG5RjezJAYj9BqEEwXfHisNqBfZU3CgJA/AoYqFjeCmvcwIdfDIEwU/j8G1AmMluwq6kQSQuPFog+EpaEAEXAsbzFIe+VufKhEQcKioXK+XWZ9HEIzEfNwaIuB2ZqnEwsiOPjsLWgEYS3QawR3nZaCSjMjtIAKuawjtyFTi7/1zdosIZXKjXgbGKqNyDTQiNmGdWUpI6EX+NsNMIgD2F8nlOtGCyB/7SZkIauvhYhEXMaQqsSRjd8GuPp0ITCLLg5v0Mv8sKBIxoL6LRGwzpIROZCrx22m6gYSIfpHceX5uax7tKJNoJDZHbKkTHLAw4/czTFRkgP1lcuVOdO1u5tczSUBQ24qIJWqosDxnb8lf+vQiUKIduXib/QXFiPbjqKYq0Yn0E3+eoRupEHC4YkOTdmSsIgZ1hYgDakiIWJnziykOlbQCMFmxpsGKnJ19otomIv5YNzhhSzP4ymTp0xOlJVmQUCEPnLfFeEVCCOrYFfE7NSUsjuxJyVsPlUIEAsYqtrWYl3G4IqrlTxE/U1NKZIHNefDZydLBmWR+AGYSS3NW5uwtyNTy04jfYocaKkRsaATTic9NVublQQIErG8wXZEMbQo/iIDPqSmgG4EPjxfEAGC8Yn2TbvzffDCUL2M6At6tPlECHx2vHJqpLIjH7BYNDpRkhvJeiICPYZcROVAl7xkr9fIgIaBMbGoAyazN4J0QAfBktQUAHxgrSUTAZMXKBgszJpLZeh4mIALgNdhvRD43UfrLdLI4AwrMz1ieM1EZHAWeAxAdiXsakT4+NVFqZlGFgCKxIjNbD8E0QO5IfBDvwu2cRicEK7Kgn2gENufRyqxypHceLtxnedOaViQlEprBxtygvohXwsmC4U64Klaf+sCqfH+69JOZ5ECVVIkfzZSO9KWpyuP/MWVtI2pgSQwu1olCTAYwhpsN+jJwE36FlpPIURhOKzCdnM6F8bNBg+HC+CZ65t5V8FUYPBjYjC9hg7mxD9fCD2GYYOjidbi9M+tjuAd2Q51ggHvhmVg1+rXq2XiBAQSz08ZD8bD64Q7gJXgBDhpQMJwWboub4KpYZjD78TV8FO/GIXNPG5fB3fEMvPKIT7evwrNxL1wBPTX9C31ZioXqdiXTAAAAAElFTkSuQmCC" alt="" width="44" height="44" data-atf="1" /></a>
+<div class="i3LlFf">Netflix</div>
+<div class="V8xno">Subscription</div>
+<div class="V8xno">&nbsp;</div>
+<div class="V8xno">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
